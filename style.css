@@ -1,0 +1,20 @@
+body{
+    background-color: #4a5157;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.padre {
+    background-color: rgb(204, 210, 228);
+    padding: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-img, .card-img-top {
+    border: solid black;
+    width: 250px;
+}
